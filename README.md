@@ -8,7 +8,7 @@
 
 💞️ Estou buscando oportunidades que me permitam colaborar em projetos emocionantes e desafiadores, onde posso aplicar o que aprendi até agora e continuar a crescer como desenvolvedor. Minha abordagem de resolução de problemas e minha vontade de aprender são ativos valiosos que estou ansioso para compartilhar em um ambiente de equipe.
 
-📫 Eu adoraria me conectar com outros entusiastas e profissionais da área de tecnologia. Se você estiver interessado em trocar ideias, discutir projetos ou compartilhar dicas e recursos, sinta-se à vontade para entrar em contato comigo por email: renatopreirals@email.com ou pelo LinkedIn: www.linkedin.com/in/renatopreirals.
+📫 Eu adoraria me conectar com outros entusiastas e profissionais da área de tecnologia. Se você estiver interessado em trocar ideias, discutir projetos ou compartilhar dicas e recursos, sinta-se à vontade para entrar em contato comigo por email: renatopreirals@gmail.com ou pelo LinkedIn: www.linkedin.com/in/renatopreirals.
 
 
 <!---
