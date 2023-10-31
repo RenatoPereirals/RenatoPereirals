@@ -15,11 +15,11 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=dark"
+    srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&theme=radical"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true"
+    srcset="[https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true](https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical)"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
  
