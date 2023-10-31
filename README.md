@@ -1,5 +1,3 @@
-
-
 👋 Olá, sou @Renato Pereira!
 
 🌱 Estou em uma empolgante jornada de aprendizado na área de tecnologia da informação e desenvolvimento de software. Minha paixão por explorar me levou a mergulhar mais e mais fundo nesse mundo incrivel.
@@ -11,10 +9,12 @@
 📫 Eu adoraria me conectar com outros entusiastas e profissionais da área de tecnologia. Se você estiver interessado em trocar ideias, discutir projetos ou compartilhar dicas e recursos, sinta-se à vontade para entrar em contato comigo por email: renatopreirals@gmail.com ou pelo LinkedIn: www.linkedin.com/in/renatopreirals.
 
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&theme=radical&locale=pt-br)
-
----
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&theme=radical&locale=pt-br" />
+</a>
 <!---
 RenatoPereirals/RenatoPereirals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
