@@ -14,7 +14,7 @@
     <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&locale=pt-br&rank_icon=github&card_width=300" />
   </a>
   <a >
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&langs_count=20&theme=radical&locale=pt-br&card_width=500" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&langs_count=20&theme=radical&locale=pt-br&card_width=400" />
   </a>
 </div>
 
