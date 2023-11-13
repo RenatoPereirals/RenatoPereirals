@@ -1,6 +1,6 @@
 👋 Olá, sou @Renato Pereira!
 
-🌱 Estou em uma empolgante jornada de aprendizado na área de tecnologia da informação e desenvolvimento de software. Minha paixão por explorar me levou a mergulhar mais e mais fundo nesse mundo incrível.
+🌱 Estou em uma jornada de aprendizado na área de tecnologia da informação e desenvolvimento de software. Minha paixão por explorar me levou a mergulhar mais e mais fundo nesse mundo incrível.
 
 👀 Já me aventurei na criação de aplicações web e participei de projetos guiados durante meus estudos. Meu foco está em desenvolvimento web, e estou ansioso para aprimorar minhas habilidades nessa área.
 
