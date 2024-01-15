@@ -11,7 +11,7 @@
 
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" alt="GitHub Stats" width="45%" height=auto/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&langs_count=5&theme=radical&locale=pt-br" alt="Top Langs" width="45%" height=auto/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&langs_count=20&theme=radical&locale=pt-br" alt="Top Langs" width="45%" height=auto/>
 
 <!---
 RenatoPereirals/RenatoPereirals is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
