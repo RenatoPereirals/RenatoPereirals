@@ -40,33 +40,34 @@ Estou animado para continuar minha jornada na área de tecnologia da informaçã
 ### Projetos Principais
 
 <a href="https://github.com/RenatoPereirals/Banco_De_Horas_E_Servi-os.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Banco_De_Horas_E_Servi-os&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Banco_De_Horas_E_Servi-os&theme=radical" />
 </a>
 
 <a href="https://github.com/RenatoPereirals/Agenta_Asp.NET_5-fornt-end.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-fornt-end&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-fornt-end&theme=radical" />
 </a>
 
 <a href="https://github.com/RenatoPereirals/Agenta_Asp.NET_5-back-end.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-back-end&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-back-end&theme=radical" />
 </a>
 
 <a href="https://github.com/RenatoPereirals/PipocaAgilPodcast.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast&theme=radical" />
 </a>
 
 <a href="https://github.com/RenatoPereirals/PipocaAgilPodcast-testes.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-testes&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-testes&theme=radical" />
 </a>
 
 <a href="https://github.com/RenatoPereirals/PipocaAgilPodcast-server.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-server&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-server&theme=radical" />
 </a>
 
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&locale=pt-br&rank_icon=github" alt="GitHub Stats" width="50%" height=auto/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&langs_count=5&theme=radical&locale=pt-br" alt="Top Langs" width="50%" height=auto/>
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&theme=radical" alt="Top Langs"/>
+</a>
