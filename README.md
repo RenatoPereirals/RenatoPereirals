@@ -4,7 +4,7 @@ Estudante de Bacharelado em Ciências da Computação e Técnico em Desenvolvime
 
 Embora eu esteja no início da minha carreira, já demonstrei minha capacidade de aprender rapidamente e aplicar meus conhecimentos em situações do mundo real. Tenho uma forte inclinação para o autodidatismo, o que me permite explorar novas tecnologias e conceitos por conta própria.
 
-Estou particularmente interessado em desenvolvimento web com ASP.NET e Angular e estou ansioso para aprofundar meu conhecimento e experiência nesta área. Acredito firmemente que minha paixão pelo aprendizado e minha capacidade de adaptação rápida me tornam um candidato forte.
+Estou particularmente interessado em desenvolvimento web com ASP.NET e Angular, e estou ansioso para aprofundar meu conhecimento e experiência nesta área. Acredito firmemente que minha paixão pelo aprendizado e minha capacidade de adaptação rápida me tornam um candidato forte.
 
 Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer como profissional.
 
