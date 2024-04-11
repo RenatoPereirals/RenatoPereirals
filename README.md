@@ -1,12 +1,10 @@
 
 # Renato Pereira da Silva
-Olá, sou Renato Pereira, um entusiasta da tecnologia com uma paixão insaciável por aprender. Atualmente, estou cursando Bacharelado em Ciências da Computação na FBV Wyden e Técnico em Desenvolvimento de Sistemas pela ETEPAC. Além disso, estou adquirindo experiência prática como Estagiário de Desenvolvimento de Software e Suporte no Porto de Recife SA.
+Estudante de Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas e estou adquirindo experiência prática como Estagiário do curso de Ciência da Computação no Porto de Recife SA.
 
 Embora eu esteja no início da minha carreira, já demonstrei minha capacidade de aprender rapidamente e aplicar meus conhecimentos em situações do mundo real. Tenho uma forte inclinação para o autodidatismo, o que me permite explorar novas tecnologias e conceitos por conta própria.
 
-Já trabalhei em vários projetos, incluindo iniciativas próprias, projetos mentorados e um projeto voluntário no Pipoca Ágil. Essas experiências me proporcionaram uma compreensão sólida do desenvolvimento de software e me permitiram aprimorar minhas habilidades técnicas.
-
-Estou particularmente interessado em desenvolvimento web com ASP.NET e Angular e estou ansioso para aprofundar meu conhecimento e experiência nesta área. Acredito firmemente que minha paixão pelo aprendizado e minha capacidade de adaptação rápida me tornam um candidato forte, apesar da minha experiência limitada.
+Estou particularmente interessado em desenvolvimento web com ASP.NET e Angular e estou ansioso para aprofundar meu conhecimento e experiência nesta área. Acredito firmemente que minha paixão pelo aprendizado e minha capacidade de adaptação rápida me tornam um candidato forte.
 
 Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer como profissional.
 
@@ -14,7 +12,6 @@ Estou animado para continuar minha jornada na área de tecnologia da informaçã
 
 📫 Adoraria me conectar com outros entusiastas e profissionais da área de tecnologia. Se você estiver interessado em trocar ideias, discutir projetos ou compartilhar dicas e recursos, sinta-se à vontade para entrar em contato comigo.
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/devadeathls)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatopereirals@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatopreirals//)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatopereirals)
