@@ -1,6 +1,6 @@
 
 # Renato Pereira da Silva
-Estudante de Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas e estou adquirindo experiência prática como Estagiário do curso de Ciência da Computação no Porto de Recife SA.
+Estudante de Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas, estou adquirindo experiência prática como Estagiário do curso de Ciência da Computação no Porto de Recife SA.
 
 Embora eu esteja no início da minha carreira, já demonstrei minha capacidade de aprender rapidamente e aplicar meus conhecimentos em situações do mundo real. Tenho uma forte inclinação para o autodidatismo, o que me permite explorar novas tecnologias e conceitos por conta própria.
 
