@@ -1,16 +1,15 @@
-
 # Renato Pereira da Silva
-Estudante de Bacharelado em Ciências da Computação e Técnico em Desenvolvimento de Sistemas, estou adquirindo experiência prática como Estagiário do curso de Ciência da Computação no Porto de Recife SA.
+Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atuo como Estagiário de Ciência da Computação no Porto de Recife SA, onde tenho adquirido experiência prática e contribuído para projetos significativos.
 
-Embora eu esteja no início da minha carreira, já demonstrei minha capacidade de aprender rapidamente e aplicar meus conhecimentos em situações do mundo real. Tenho uma forte inclinação para o autodidatismo, o que me permite explorar novas tecnologias e conceitos por conta própria.
+Minha capacidade de aprender rapidamente e aplicar conhecimentos em situações do mundo real é uma das minhas maiores qualidades. Essa habilidade me permite explorar e dominar novas tecnologias e conceitos de forma independente.
 
-Estou particularmente interessado em desenvolvimento web com ASP.NET e Angular, e estou ansioso para aprofundar meu conhecimento e experiência nesta área. Acredito firmemente que minha paixão pelo aprendizado e minha capacidade de adaptação rápida me tornam um candidato forte.
+Meu interesse principal é atuar como desenvolvedor de software, com foco em desenvolvimento de back-end. Mas minhas habilidades técnicas e paixão pelo aprendizado contínuo me capacitam a assumir desafios em diversas áreas da tecnologia.
 
 Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer como profissional.
 
 ### Conecte-se comigo
 
-📫 Adoraria me conectar com outros entusiastas e profissionais da área de tecnologia. Se você estiver interessado em trocar ideias, discutir projetos ou compartilhar dicas e recursos, sinta-se à vontade para entrar em contato comigo.
+📫 Adoraria me conectar com outros profissionais e entusiastas da área de tecnologia. Se você deseja trocar ideias, discutir projetos ou compartilhar conhecimentos, fique à vontade para entrar em contato comigo.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatopereirals@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatopreirals//)
