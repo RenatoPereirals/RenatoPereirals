@@ -1,11 +1,11 @@
 # Renato Pereira da Silva
-Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atuo como Estagiário de Ciência da Computação no Porto de Recife SA, onde tenho adquirido experiência prática e contribuído para projetos significativos.
+Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atualmente, atuo na Porto de Recife SA como Apoio Técnico, com foco em desenvolvimento de software. Embora o título do meu cargo seja genérico, minhas responsabilidades incluem o desenvolvimento de back-end, implementação de soluções técnicas e suporte em projetos de TI.
 
 Minha capacidade de aprender rapidamente e aplicar conhecimentos em situações do mundo real é uma das minhas maiores qualidades. Essa habilidade me permite explorar e dominar novas tecnologias e conceitos de forma independente.
 
-Meu interesse principal é atuar como desenvolvedor de software, com foco em desenvolvimento de back-end. Mas minhas habilidades técnicas e paixão pelo aprendizado contínuo me capacitam a assumir desafios em diversas áreas da tecnologia.
+Atuo como desenvolvedor de software, com especialização em back-end, e estou constantemente buscando expandir minhas habilidades e conhecimentos. Minha paixão pelo aprendizado contínuo me capacita a assumir desafios em diversas áreas da tecnologia, o que me permite contribuir significativamente em diferentes tipos de projetos.
 
-Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer como profissional.
+Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer ainda mais como profissional.
 
 ### Conecte-se comigo
 
