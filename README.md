@@ -1,5 +1,5 @@
 # Renato Pereira da Silva
-Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atualmente, atuo na Porto de Recife SA como Apoio Técnico, com foco em desenvolvimento de software. Embora o título do meu cargo seja genérico, minhas responsabilidades incluem o desenvolvimento de back-end, implementação de soluções técnicas e suporte em projetos de TI.
+Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atualmente, atuo na Porto de Recife SA como Apoio Técnico, com foco em desenvolvimento de software. Minhas responsabilidades incluem o desenvolvimento back-end, implementação de soluções técnicas e suporte em projetos de TI.
 
 Minha capacidade de aprender rapidamente e aplicar conhecimentos em situações do mundo real é uma das minhas maiores qualidades. Essa habilidade me permite explorar e dominar novas tecnologias e conceitos de forma independente.
 
