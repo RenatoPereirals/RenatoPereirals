@@ -3,9 +3,9 @@ Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Siste
 
 Minha capacidade de aprender rapidamente e aplicar conhecimentos em situações do mundo real é uma das minhas maiores qualidades. Essa habilidade me permite explorar e dominar novas tecnologias e conceitos de forma independente.
 
-Atuo como desenvolvedor de software, com especialização em back-end, e estou constantemente buscando expandir minhas habilidades e conhecimentos. Minha paixão pelo aprendizado contínuo me capacita a assumir desafios em diversas áreas da tecnologia, o que me permite contribuir significativamente em diferentes tipos de projetos.
+Como desenvolvedor de software, com especialização em back-end, e estou constantemente buscando expandir minhas habilidades e conhecimentos. Minha paixão pelo aprendizado contínuo me capacita a assumir desafios em diversas áreas da tecnologia, o que me permite contribuir significativamente em diferentes tipos de projetos.
 
-Estou animado para continuar minha jornada na área de tecnologia da informação e estou aberto a oportunidades que me permitam crescer ainda mais como profissional.
+Estou animado para continuar minha jornada como desenvolvedor e estou aberto a oportunidades que me permitam crescer ainda mais como profissional.
 
 ### Conecte-se comigo
 
