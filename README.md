@@ -1,67 +1,86 @@
-# Renato Pereira da Silva
-Sou estudante de Ciências da Computação, Técnico em Desenvolvimento de Sistemas e Inglês. Atualmente, atuo na Porto de Recife SA como Apoio Técnico, com foco em desenvolvimento de software. Minhas responsabilidades incluem o desenvolvimento back-end, implementação de soluções técnicas e suporte em projetos de TI.
+<h1 align="center">Olá 👋, eu sou Renato</h1>
+<h3 align="center">Um desenvolvedor de software backend</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatopereirals&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="renatopereirals" /> </p>
 
-Como desenvolvedor de software, estou constantemente buscando expandir minhas habilidades e conhecimentos. Minha paixão pelo aprendizado contínuo me capacita a assumir desafios em diversas áreas da tecnologia, o que me permite contribuir significativamente em diferentes tipos de projetos.
+🎓 **Estudante de Ciências da Computação** | **Técnico em Desenvolvimento de Sistemas** | **Inglês Avançado**  
+Atualmente, atuo como Desenvolvedor e Suporte de TI na **Porto de Recife SA**, onde desenvolvo software com foco no backend e apoio em projetos de TI.
 
-Estou animado para continuar minha jornada como desenvolvedor e estou aberto a oportunidades que me permitam crescer ainda mais como profissional.
+📫 **Como entrar em contato:** [renatopreirals@gmail.com](mailto:renatopreirals@gmail.com)
 
-### Conecte-se comigo
+<!-- Contato -->
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/renatopreirals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatopreirals" height="30" width="40" /></a>
+</p>
 
-📫 Adoraria me conectar com outros profissionais e entusiastas da área de tecnologia. Se você deseja trocar ideias, discutir projetos ou compartilhar conhecimentos, fique à vontade para entrar em contato comigo.
+<!-- Linguagens de Programação -->
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renatopereirals@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renatopreirals//)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/renatopereirals)
+<!-- Frameworks e Bibliotecas -->
+<p align="left">
+  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
+  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
+</p>
 
-### Habilidades
+<!-- Backend e DevOps -->
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
+  <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+<!-- Bancos de Dados -->
+<p align="left">
+  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+</p>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<!-- Ferramentas de Desenvolvimento e Testes -->
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
+  <a href="https://cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> 
+  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+</p>
 
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<!-- Frontend e Web Design -->
+<p align="left">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
+</p>
 
 ### Projetos Principais
+<p align="left">
+  <a href="https://github.com/RenatoPereirals/Banco_De_Horas_E_Servi-os.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Banco_De_Horas_E_Servi-os&theme=radical" />
+  </a>
+  <a href="https://github.com/RenatoPereirals/Agenta_Asp.NET_5-fornt-end.git">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-fornt-end&theme=radical" />
+  </a>
+</p>
 
-<a href="https://github.com/RenatoPereirals/Banco_De_Horas_E_Servi-os.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Banco_De_Horas_E_Servi-os&theme=radical" />
-</a>
+### O que estou aprendendo atualmente
+- **Docker**: Aprimorando habilidades em containerização de aplicações.
+- **Microservices**: Explorando arquiteturas de microserviços e como implementá-las.
 
-<a href="https://github.com/RenatoPereirals/Agenta_Asp.NET_5-fornt-end.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-fornt-end&theme=radical" />
-</a>
+### Contribuições e Feedbacks
+👨‍💻 Estou sempre aberto a colaborações e feedbacks! Se você estiver interessado em trabalhar em um projeto comigo ou quiser discutir ideias, entre em contato!
 
-<a href="https://github.com/RenatoPereirals/Agenta_Asp.NET_5-back-end.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=Agenta_Asp.NET_5-back-end&theme=radical" />
-</a>
-
-<a href="https://github.com/RenatoPereirals/PipocaAgilPodcast.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast&theme=radical" />
-</a>
-
-<a href="https://github.com/RenatoPereirals/PipocaAgilPodcast-testes.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-testes&theme=radical" />
-</a>
-
-<a href="https://github.com/RenatoPereirals/PipocaAgilPodcast-server.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RenatoPereirals&repo=PipocaAgilPodcast-server&theme=radical" />
-</a>
-
-
-### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoPereirals&layout=compact&theme=radical" alt="Top Langs"/>
-</a>
+### Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=renatopereirals&show_icons=true&locale=en&layout=compact&theme=radical)
