@@ -2,7 +2,7 @@
 <h3 align="center">Um desenvolvedor de software backend</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=renatopereirals&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="renatopereirals" /> </p>
 
-🎓 **Estudante de Ciências da Computação** | **Técnico em Desenvolvimento de Sistemas** | **Inglês Avançado**  
+🎓 **Estudante de Ciências da Computação** | **Técnico em Desenvolvimento de Sistemas** | **Inglês**  
 Atualmente, atuo como Desenvolvedor e Suporte de TI na **Porto de Recife SA**, onde desenvolvo software com foco no backend e apoio em projetos de TI.
 
 📫 **Como entrar em contato:** [renatopreirals@gmail.com](mailto:renatopreirals@gmail.com)
