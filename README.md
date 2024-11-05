@@ -1,6 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Renato</h1>
 <h3 align="center">Um desenvolvedor de software backend</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=renatopereirals&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="renatopereirals" /> </p>
 
 🎓 **Estudante de Ciências da Computação** | **Técnico em Desenvolvimento de Sistemas** | **Inglês**  
 Atualmente, atuo como Desenvolvedor e Suporte de TI na **Porto de Recife SA**, onde desenvolvo software com foco no backend e apoio em projetos de TI.
@@ -13,56 +12,58 @@ Atualmente, atuo como Desenvolvedor e Suporte de TI na **Porto de Recife SA**, o
   <a href="https://linkedin.com/in/renatopreirals" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="renatopreirals" height="30" width="40" /></a>
 </p>
 
+### Tecnologias e Ferramentas
 <!-- Linguagens de Programação -->
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-</p>
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
-<!-- Frameworks e Bibliotecas -->
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
-</p>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![MAUI](https://img.shields.io/badge/MAUI-3D88C8?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-%230E4A2B.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![xUnit.Net](https://img.shields.io/badge/xUnit.Net-%23007B33.svg?style=for-the-badge&logo=xunit&logoColor=white)
 
-<!-- Backend e DevOps -->
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> 
-  <a href="https://azure.microsoft.com/pt-br/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a> 
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-</p>
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 
-<!-- Bancos de Dados -->
-<p align="left">
-  <a href="https://www.microsoft.com/pt-br/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-</p>
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-<!-- Ferramentas de Desenvolvimento e Testes -->
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-  <a href="https://cypress.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a> 
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/></a> 
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
-</p>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<!-- Frontend e Web Design -->
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> 
-</p>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+
+![Docker](https://img.shields.io/badge/Docker-%230db7f5.svg?style=for-the-badge&logo=docker&logoColor=white)
+<!--![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%233399CC.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![OpenShift](https://img.shields.io/badge/OpenShift-%231DA5F1.svg?style=for-the-badge&logo=openshift&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%2332B5E0.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%2345A30D.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  -->
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+
+### Design e Arquitetura de Software
+
+![Microservices](https://img.shields.io/badge/Microservices-%2361dafb.svg?style=for-the-badge&logo=microservices&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-%234A90E2.svg?style=for-the-badge&logo=api&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-%23F5B041.svg?style=for-the-badge&logo=design&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-%23E67E22.svg?style=for-the-badge&logo=solid&logoColor=white)
+![DDD](https://img.shields.io/badge/DDD-%23A569BD.svg?style=for-the-badge&logo=domain&logoColor=white)
+
+### Metodologias e Abordagens
+
+![TDD](https://img.shields.io/badge/TDD-%23FFCC00.svg?style=for-the-badge&logo=testing&logoColor=black)
+![Scrum](https://img.shields.io/badge/Scrum-%23FFC107.svg?style=for-the-badge&logo=scrum&logoColor=white)
+![CI](https://img.shields.io/badge/CI-%2347C8E4.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![CD](https://img.shields.io/badge/CD-%23349A45.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ### Projetos Principais
 <p align="left">
@@ -75,12 +76,13 @@ Atualmente, atuo como Desenvolvedor e Suporte de TI na **Porto de Recife SA**, o
 </p>
 
 ### O que estou aprendendo atualmente
-- **Docker**: Aprimorando habilidades em containerização de aplicações.
-- **Microservices**: Explorando arquiteturas de microserviços e como implementá-las.
+- Docker e Microservices.
 
 ### Contribuições e Feedbacks
 👨‍💻 Estou sempre aberto a colaborações e feedbacks! Se você estiver interessado em trabalhar em um projeto comigo ou quiser discutir ideias, entre em contato!
 
 ### Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RenatoPereirals&show_icons=true&theme=radical)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=renatopereirals&show_icons=true&locale=en&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Renatopereirals&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Renatopereirals&icon=0&color=0)](https://visitcount.itsvg.in)
